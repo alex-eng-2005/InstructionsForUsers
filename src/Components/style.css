@@ -1,0 +1,16 @@
+#title
+{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 182, 182);
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 5px 5px 5px rgb(255, 119, 119);
+}
+
+#steps
+{
+    width: 50%;
+    height: 50%;
+    border: 5px solid black;
+}

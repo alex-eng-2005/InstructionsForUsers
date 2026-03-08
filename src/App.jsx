@@ -1,6 +1,11 @@
+import Header from "./Components/Header.jsx"
+import Body from "./Components/Body.jsx"
 export default function App()
 {
-    return (<section>
-                <h1>Hello World</h1>
-            </section>)
+    return (
+        <>
+        <Header />
+        <Body />
+        </>
+    )
 }
