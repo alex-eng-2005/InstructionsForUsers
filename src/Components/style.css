@@ -13,4 +13,8 @@
     width: 50%;
     height: 50%;
     border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10%;
 }
